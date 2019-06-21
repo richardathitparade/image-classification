@@ -16,7 +16,7 @@
 
 2. Clone this repository:
 
-        git clone https://github.com/ludwiktrammer/deep-learning.git
+        git clone https://github.com/richardathitparade/image-classification.git
 
      
 
